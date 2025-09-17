@@ -32,4 +32,4 @@ let s = new Stack();
 s.push(10);
 s.push(20);
 s.push(30);
-console.log(s.pop() + " Popped from stack");
+console.log(s.pop() + " Popped from stack"); //test comment
